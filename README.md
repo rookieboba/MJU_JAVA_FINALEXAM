@@ -1,3 +1,3 @@
-# MJU_JAVA_FINALEXAM
+# MJU_Java_FinalExam
 
 MUU_ProfessorZhang_FinalExam_2017
